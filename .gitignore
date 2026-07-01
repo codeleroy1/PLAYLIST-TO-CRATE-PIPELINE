@@ -1,0 +1,41 @@
+# ── Python ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# ── OS cruft ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Pipeline-generated data — never commit real library / session data ──
+# Session handoff files (contain your real file paths + full track metadata)
+*_matched.json
+*_youtube.json
+*_config.json
+*_4K_DOWNLOAD.txt
+.dj_pipeline/
+
+# Audio files — never commit actual music
+*.mp3
+*.m4a
+*.wav
+*.aiff
+*.flac
+
+# Serato / DJ software crate output
+*.crate
+*.m3u8
+!examples/**/*.m3u8
+
+# Local demo/test scratch directories
+demo_library/
+demo_downloads/
+demo_crates/
+
+# ── Anything that looks like a real personal Exportify export ──
+# (the tracked example lives at examples/sample_playlist_export.csv only)
+*.csv
+!examples/*.csv

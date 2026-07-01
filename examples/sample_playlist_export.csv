@@ -1,0 +1,6 @@
+Track URI,Track Name,Artist Name(s),Album Name,Release Date,Duration (ms),Popularity,Explicit,Added At,Genres,Record Label,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
+spotify:track:0001example,Sunset Riddim,Sample Artist One,Island Vibes EP,2023-06-02,201000,58,false,2024-01-10T14:22:00Z,"dancehall, afrobeats",Sample Records,0.82,0.71,6,-6.4,0,0.08,0.12,0.0,0.15,0.66,104.0,4
+spotify:track:0002example,Midnight Groove,Sample Artist Two,Night Sessions,2022-11-18,189500,64,false,2024-01-10T14:23:00Z,"house, afro house",Groove Label,0.77,0.85,9,-5.1,1,0.05,0.03,0.02,0.22,0.58,123.0,4
+spotify:track:0003example,City Lights (feat. Sample Artist Four),Sample Artist Three;Sample Artist Four,Uptown,2024-02-09,215000,71,true,2024-01-10T14:24:00Z,"hip hop, rap",Uptown Records,0.68,0.62,1,-7.8,0,0.24,0.09,0.0,0.31,0.44,92.0,4
+spotify:track:0004example,Isla Bonita Edit,Sample Artist Five,Isla Bonita Edit,2021-07-04,198000,49,false,2024-01-10T14:25:00Z,"latin, reggaeton",Independent,0.88,0.79,4,-4.9,1,0.11,0.07,0.0,0.18,0.73,98.0,4
+spotify:track:0005example,Golden Hour,Sample Artist Six,Golden Hour,2023-01-27,224000,55,false,2024-01-10T14:26:00Z,"r&b, soul",Warm Tone Records,0.61,0.48,7,-9.2,1,0.04,0.35,0.0,0.12,0.39,86.0,4
