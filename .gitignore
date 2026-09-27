@@ -16,6 +16,13 @@ Thumbs.db
 *_youtube.json
 *_config.json
 *_4K_DOWNLOAD.txt
+*_pipeline_*.json
+*_4K_IMPORT.json
+*_part2.json
+*_moves.json
+*_review.json
+pipeline-script-backup-*/
+*.sqlite*
 .dj_pipeline/
 
 # Audio files — never commit actual music
